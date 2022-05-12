@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Maskerss
-- 👀 I’m interested in  язык  Python
-- 🌱 I’m currently learning ...Сейчас обучаюсь на платформе 'Алгоритмика' по  курсу Python'а
-- 💞️ I’m looking to collaborate on ......всех..
-- 📫 How to reach me: jorjixcostava@gmail.com
+Maskerss
+- 👀 Я изучаю язык Python
+- 🌱 Сейчас обучаюсь на платформе 'Алгоритмика' по  курсу Python'а
+- 💞️ Ищу для сотрудничества......всех
+- 📫 Как со мной ссвязаться: jorjixcostava@gmail.com
 - И т.д. и т.п. 
 <!---
 Maskerss/Maskerss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
